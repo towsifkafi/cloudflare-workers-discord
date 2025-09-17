@@ -6,7 +6,7 @@ A [slash-create](https://npm.im/slash-create) template, using [Cloudflare Worker
 ### Cloning the repo
 To get started with this project, clone the repository:
 ```sh
-git clone <repository_url>
+git clone https://github.com/towsifkafi/cloudflare-workers-discord.git
 ```
 
 After cloning, install the dependencies using npm:
